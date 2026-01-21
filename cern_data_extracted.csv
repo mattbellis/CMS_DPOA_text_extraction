@@ -1,0 +1,7 @@
+Title,Authors,Date,Dataset name (collision or MC),Size (events),Size (files),Size (bytes),Data format,Dataset DOI
+Adversarially Learned Anomaly Detection on CMS Open Data: re-discovering the top quark,O Knapp;O Cerri;G Dissertori;T Q Nguyen;M Pierini;JR Vlimant,2020-10,CMS 2012 Open Data 8 TeV,4400000,500,1000000000000,AOD,10.5281/zenodo.2629073
+Unveiling Time-Varying Signals of Ultralight Bosonic Dark Matter at Collider and Beam Dump Experiments,Jinhui Guo; Yuxuan He; Jia Liu; Xiao-Ping Wang; Ke-Pan Xie,2023-08,CMS Open Data 2012 8 TeV,15000000,500,10737418240,AOD,10.7483/OPENDATA.CMS.8TEV.2012
+End-to-End Jet Classification of Boosted Top Quarks with the CMS Open Data,M Andrews;B Burkle;Y Chen;D DiCroce;S Gleyzer;U Heintz;M Narain;M Paulini;N Pervan;Y Shafi;W Sun;E Usai;K Yang,2022-01,SM top-antitop (tt) pair production 13 TeV,2560000,600,0,AOD,10.7483/OPENDATA.CMS.WYDL.KSLK
+End-to-End Jet Classification of Boosted Top Quarks with the CMS Open Data,M Andrews;B Burkle;Y Chen;D DiCroce;S Gleyzer;U Heintz;M Narain;M Paulini;N Pervan;Y Shafi;W Sun;E Usai;K Yang,2022-01,QCD Pt-15to3000 TuneZ2star Flat 13 TeV,6000000,600,0,AOD,10.7483/OPENDATA.CMS.CWTT.8Q3E
+End-to-End Physics Event Classification with CMS Open Data,M Andrews; M Paulini; S Gleyzer; B Poczos,2020-10,CMS Open Data 2012 8 TeV,199104,500,10737418240,AOD,10.7483/OPENDATA.CMS.2012.8TEV
+Exploring Uncharted Soft Displaced Vertices in Open Data,Haipeng An; Zhen Hu; Zhen Liu; Daneng Yang,2021-07,CMS Open Data 8 TeV 2012 MET primary,43000000,198,10737418240,AOD,10.7483/OPENDATA.CMS.8YB8.7J3N
